@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xf9ab93688422aa82336ecf336ec4d9e2f44e14dd",
+  "SCAN_LINK": "https://etherscan.io/address/0xf9ab93688422aa82336ecf336ec4d9e2f44e14dd",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Adolescent Ape Club",
+  "SYMBOL": "AAC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 200000000000000000,
+  "DISPLAY_COST": 0.2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/adolescent-ape-club",
+  "SHOW_BACKGROUND": true,
+  "DEEPLINK" : "https://metamask.app.link/dapp/adolescentape.club/mint"
+}
